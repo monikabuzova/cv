@@ -1,0 +1,32 @@
+h2{
+  font-family: monospace;
+  font-size: 20px;
+  padding: inherit;
+  text-align: center;
+  color: white
+}
+body{
+  background-color: #3598DB ;
+}
+form{
+  text-align: center;
+  font-family: Bradley Hand ITC;
+  color: black;
+  padding: 20px;
+  background-color: yellow;
+}
+h1{
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  color: yellow;
+
+}
+h3{
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+hr{
+  color: white;
+}
